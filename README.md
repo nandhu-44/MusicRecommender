@@ -36,9 +36,9 @@ This project provides music genre recommendations and suggests Spotify playlists
 5. Run the code:
    - Windows:
      ```bash
-     python main.py
+     python musicRecommender.py
      ```
    - Linux/Mac:
      ```bash
-     python3 main.py
+     python3 musicRecommender.py
      ```

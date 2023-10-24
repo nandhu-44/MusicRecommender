@@ -1,3 +1,5 @@
 *.dot
 __pycache__
 .vscode/
+*.json
+!*.example.json

@@ -33,7 +33,10 @@ This project provides music genre recommendations and suggests Spotify playlists
      }
      ```
    - Save the file.
-5. Run the code:
+
+5. Run the `music.ipynb` file to create the model.
+
+6. Run the code:
    - Windows:
      ```bash
      python musicRecommender.py
